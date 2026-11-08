@@ -1,0 +1,226 @@
+{
+  "repositories": {
+    "ai-code-agents-intro": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "13a13289-7266-48cb-879a-8b669d9814fc": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "extra-credit-shorts": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "76f70ae4-45c8-4604-8f18-5da54ee8436a": {
+          "pages": [],
+          "slides": []
+        },
+        "617f781f-c6f2-4ba1-b4e8-93e95f8bd0eb": {
+          "pages": [],
+          "slides": []
+        },
+        "d976112b-e469-4bac-b1e0-303424a40aae": {
+          "pages": [],
+          "slides": []
+        },
+        "e3008538-43e9-422d-8320-3342bb12828c": {
+          "pages": [],
+          "slides": []
+        },
+        "37008cec-c932-4a5b-a95b-cac73e0791df": {
+          "pages": [],
+          "slides": []
+        },
+        "29f07784-3060-4205-b038-6fc2214c9d02": {
+          "pages": [],
+          "slides": []
+        },
+        "2ee6ff85-c972-4555-ad94-258e7f5ff7ab": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "hello-world": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "c634cecf-2a1c-4966-92ea-31478f64e68e": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "kahoot-api-short-assignment": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "bc80cf3e-1563-428d-959a-e5ec490185fc": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "lab1-landing-page": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "30e56c4f-b24d-4ccd-b264-4070434e7672": {
+          "pages": [],
+          "slides": []
+        },
+        "082db60b-fcb8-418c-96dc-11e5a5eafd74": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "lab2-quiz-platform": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "4a72effa-5467-4215-8735-8fb82711a63b": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "lab3-react-notes": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "16befb18-d921-49d4-bcca-3d4f900ec138": {
+          "pages": [],
+          "slides": []
+        },
+        "c93f0236-95b7-47ec-8318-21250d8269a8": {
+          "pages": [],
+          "slides": []
+        },
+        "1830c8ce-c54a-4f32-b823-1cc5247fc928": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "lab4-platform-client": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "d5046c9e-8d05-4172-b9c4-38ac8fd4d1ce": {
+          "pages": [],
+          "slides": []
+        },
+        "27e9dcc5-a627-48fc-b77a-ac8653399630": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "lab5-platform-api": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "148fd606-780a-4e55-a7f9-1350ef7ed927": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "project": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "1a6b9432-adbc-4ed0-9518-e431f49d2d15": {
+          "pages": [],
+          "slides": []
+        },
+        "9cc6fefb-24d8-4b4d-a96d-a6bdbcfe8e1b": {
+          "pages": [],
+          "slides": []
+        },
+        "aca3435c-9da8-4073-a776-2ae7ef337369": {
+          "pages": [],
+          "slides": []
+        },
+        "35fd13d3-742d-41a2-85b3-26a6c0b5b3e2": {
+          "pages": [],
+          "slides": []
+        },
+        "1a0ac7a0-84b9-4bce-a07f-129fb8ed5b10": {
+          "pages": [],
+          "slides": []
+        },
+        "6cfc90ef-b15e-4ac7-a079-0a54a8bf19dd": {
+          "pages": [],
+          "slides": []
+        },
+        "fc3582da-d141-43b3-a20a-6f43dd5b6a64": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "project-api": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "project-api": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "react-intro": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "05810c30-20ff-429b-a075-2b798523285f": {
+          "pages": [],
+          "slides": []
+        },
+        "525c9bb9-17f4-4961-be05-7b43581c9f53": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "sa-wordle-api": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "ba0d579c-e6f0-4f88-a85b-7f61c2f1fe86": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    },
+    "starterpack": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "9c52f4dc-b58e-4eeb-9adf-5a9498282f12": {
+          "pages": [],
+          "slides": []
+        },
+        "0f4ce44c-1487-4c05-b512-a5624f59b407": {
+          "pages": [],
+          "slides": []
+        },
+        "94c3f69f-b174-40eb-84a0-affafeee9328": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [
+      "mcp-smoke-test-page-delete-me"
+    ],
+    "slides": []
+  }
+}
