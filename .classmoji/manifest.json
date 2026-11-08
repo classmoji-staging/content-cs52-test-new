@@ -218,9 +218,7 @@
     }
   },
   "general": {
-    "pages": [
-      "mcp-smoke-test-page-delete-me"
-    ],
+    "pages": [],
     "slides": []
   }
 }
